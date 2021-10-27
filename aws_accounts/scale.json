@@ -1,0 +1,13 @@
+{
+  "aws_account_names": [
+    "scale-management",
+    "scale-nft",
+    "scale-pre-production",
+    "scale-production",
+    "scale-sandbox-1",
+    "scale-sandbox-2",
+    "scale-sandbox-8",
+    "scale-development",
+    "scale-testing"
+  ]
+}

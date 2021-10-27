@@ -1,0 +1,10 @@
+{
+  "aws_account_names": [
+    "dfp-store-admin",
+    "dfp-sandbox",
+    "dfp-development",
+    "dfp-pre-production",
+    "dfp-production",
+    "dfp-core"
+  ]
+}

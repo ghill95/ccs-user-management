@@ -1,0 +1,6 @@
+{
+  "aws_account_names": [
+    "integration-services-development",
+    "integration-services-sandbox"
+  ]
+}

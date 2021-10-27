@@ -1,0 +1,7 @@
+{
+  "aws_account_names": [
+    "ccs-conclave-ssso-master",
+    "ccs-conclave-ssso-development",
+    "conclave-evidence-locker"
+  ]
+}

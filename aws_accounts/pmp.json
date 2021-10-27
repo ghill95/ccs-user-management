@@ -1,0 +1,7 @@
+{
+  "aws_account_names": [
+    "pmp-idam-development",
+    "pmp-idam-testing",
+    "pmp-idam-production"
+  ]
+}

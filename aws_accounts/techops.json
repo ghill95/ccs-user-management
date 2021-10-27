@@ -1,0 +1,7 @@
+{
+  "aws_account_names": [
+    "techops-development",
+    "techops-infrastructure",
+    "digital-marketplace-aws-support"
+  ]
+}

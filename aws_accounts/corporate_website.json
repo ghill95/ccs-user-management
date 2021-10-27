@@ -1,0 +1,9 @@
+{
+  "aws_account_names": [
+    "corporate-website-development",
+    "corporate-website-pre-production",
+    "corporate-website-production",
+    "corporate-website-admin",
+    "corporate-website-admin-dr"
+  ]
+}

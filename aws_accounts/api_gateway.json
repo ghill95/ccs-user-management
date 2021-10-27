@@ -1,0 +1,8 @@
+{
+  "aws_account_names": [
+    "apig-development",
+    "apig-testing",
+    "apig-preview",
+    "apig-production"
+  ]
+}

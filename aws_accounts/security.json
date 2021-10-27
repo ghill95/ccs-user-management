@@ -1,0 +1,8 @@
+{
+  "aws_account_names": [
+    "security-sandbox",
+    "security-development",
+    "security-uat",
+    "security-production"
+  ]
+}
